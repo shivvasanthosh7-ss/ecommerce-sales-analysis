@@ -1,16 +1,29 @@
-E-Commerce Sales Analysis
+E-commerce Sales Analysis
 
 Project Overview
 
-Analyzed an e-commerce dataset using SQL and Excel to generate business insights.
+This project analyzes retail sales data to identify trends across product categories and regions using pivot tables and visualizations.
 
 Tools Used
 
-* SQL
-* Excel
+* Google Sheets
+* Microsoft Excel
 
 Key Insights
 
-* Identified top-performing products
-* Analyzed sales by region
-* Found loss-making products
+* Technology category generated the highest sales
+* Office Supplies showed consistent performance
+* Regional differences impacted profitability
+
+ Dashboard
+
+![Dashboard](dashboard.png)
+
+Dataset
+
+Superstore sales dataset used for analysis
+
+ Outcome
+
+Built a simple data analysis dashboard to derive business insights from raw sales data.
+
