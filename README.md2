@@ -1,0 +1,28 @@
+E-commerce Sales Analysis
+
+## 📌 Project Overview
+
+This project analyzes retail sales data to identify trends across product categories and regions using pivot tables and visualizations.
+
+Tools Used
+
+* Google Sheets
+* Microsoft Excel
+
+Key Insights
+
+* Technology category generated the highest sales
+* Office Supplies showed consistent performance
+* Regional differences impacted profitability
+
+Dashboard
+
+![Dashboard](dashboard.png)
+
+Dataset
+
+Superstore sales dataset used for analysis
+
+Outcome
+
+Built a simple data analysis dashboard to derive business insights from raw sales data.
