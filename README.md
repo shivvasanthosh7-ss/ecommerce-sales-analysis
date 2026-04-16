@@ -45,8 +45,9 @@ Key Insights
 ---
 
 Dashboard
+<img width="618" height="586" alt="Screenshot 2026-04-17 022431" src="https://github.com/user-attachments/assets/179f175e-cd46-4155-9ffd-7d2767f45abb" />
+<img width="610" height="549" alt="Screenshot 2026-04-17 022621" src="https://github.com/user-attachments/assets/13ff8aa8-3814-46f8-899f-17aebfa9b436" />
 
-![Dashboard](dashboard.png)
 
 ---
 
